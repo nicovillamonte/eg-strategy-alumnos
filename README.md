@@ -1,6 +1,6 @@
-# Ejercicio Alumnes - Strategy
+# Ejercicio Alumnos - Strategy
 
-Esta es una implementación del ejemplo de Alumnos implementado en NestJS con TypeScript.
+Esta es una implementación del ejemplo de Alumnos implementado en NestJS con TypeScript.<br>
 Solamente es una traducción de lenguaje del [ejemplo de Alumnos del docente Fernando Dodino](https://github.com/uqbar-project/video-strategy-alumnes) desarrollado en kotlin.
 
 ## Dominio
